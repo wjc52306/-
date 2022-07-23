@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=SerialPortA Pin=T1-1
+Removed Pin From Net: NetName=NetD17_2 Pin=T1-2
+Removed Pin From Net: NetName=SerialPortB Pin=T1-3
+Added Pin To Net: NetName=SerialPortB Pin=T1-1
+Added Pin To Net: NetName=SerialPortA Pin=T1-2
+Added Pin To Net: NetName=NetD17_2 Pin=T1-3

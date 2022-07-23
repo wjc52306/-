@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=SerialPortB Pin=P4-1
+Removed Pin From Net: NetName=SerialPortB Pin=P4-1
+Removed Pin From Net: NetName=SerialPortA Pin=P4-2
+Removed Pin From Net: NetName=SerialPortA Pin=P4-2
+Added Pin To Net: NetName=SerialA Pin=G1-3
+Added Pin To Net: NetName=SerialA Pin=P4-2
+Added Pin To Net: NetName=SerialA Pin=P4-2
+Added Pin To Net: NetName=SerialA Pin=R77-2
+Added Net: Name=SerialA
+Added Pin To Net: NetName=SerialB Pin=G1-1
+Added Pin To Net: NetName=SerialB Pin=P4-1
+Added Pin To Net: NetName=SerialB Pin=P4-1
+Added Pin To Net: NetName=SerialB Pin=R76-2
+Added Net: Name=SerialB
